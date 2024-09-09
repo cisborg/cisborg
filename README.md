@@ -1,16 +1,68 @@
-## Hi there 👋
+## Hi, I'm cisborg! 👋
 
-<!--
-**cisborg/cisborg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Current Work
+I'm currently diving into:
+- **DNA Computing**: Exploring the intersection of molecular biology and computer science architecture
+- **Quantum Computing**: Researching new algorithms and applications in solving superclassical problems with advancing state-of-art technology, in photonics and nanotechnology
+- **Android Development**: Building innovative apps with a focus on user experience.
+- **Android Cybersecurity**: Performing practical cybersecurity skills with kali linux in android machinery, ensuring the safety and integrity of mobile applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Collaboration
+I’m looking to collaborate with both professionals and enthusiasts in these fields to push the boundaries of technology and research.
+
+---
+
+### 🤔 Seeking Help With
+- Advanced quantum algorithms
+- DNA computing techniques
+- Android security best practices
+
+---
+
+### 💬 Ask Me About
+- Android app development
+- Quantum computing concepts
+- DNA computing applications
+- Cybersecurity strategies for mobile apps
+
+---
+
+### 📫 How to Reach Me
+<div>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-orachadongo@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+### 😄 Pronouns
+He/Him
+
+---
+
+### ⚡ Fun Fact
+I'm optimistic that we will one day have an app that uses DNA sequences to solve complex problems—combining biology with technology!
+
+---
+
+### 📊 My Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+### 🛠️ Technologies & Tools
+<div>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Quantum%20Computing-6B8E23?style=flat&logo=quantum&logoColor=white" alt="Quantum Computing" />
+  <img src="https://img.shields.io/badge/DNA%20Computing-FF6347?style=flat&logo=dna&logoColor=white" alt="DNA Computing" />
+</div>
+
+---
+
+<!-- Feel free to customize any section further or add more details! -->
