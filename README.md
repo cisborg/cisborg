@@ -32,7 +32,7 @@ I’m looking to collaborate with both professionals and enthusiasts in these fi
 ### 📫 How to Reach Me
 <div>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-orachadongo@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-crisprboggs@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
