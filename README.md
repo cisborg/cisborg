@@ -20,7 +20,7 @@ I'm currently diving into:
 ---
 ### 📊 My Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
+---
 ### 🛠️ Technologies & Tools
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
