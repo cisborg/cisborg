@@ -18,10 +18,10 @@ I'm currently working on:
 ---
 
 #### 📊 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=white)
 
 ### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cisborg&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cisborg&layout=compact&theme=white)
 
 ---
 
