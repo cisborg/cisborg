@@ -16,10 +16,6 @@ I'm currently diving into:
     <img src="https://img.shields.io/badge/LinkedIn-YourProfile-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
-
----
-### ⚡ Fun Fact
-I'm optimistic that we will one day have an app that uses DNA sequences to solve complex problems—combining biology with technology!
 ---
 ### 📊 My Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=radical)
