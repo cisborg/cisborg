@@ -6,29 +6,16 @@ I'm currently diving into:
 - **Quantum Computing**: Researching new algorithms and applications in solving superclassical problems with advancing state-of-art technology, in photonics and nanotechnology
 - **Android Development**: Building innovative apps with a focus on user experience.
 - **Android Cybersecurity**: Performing practical cybersecurity skills with kali linux in android machinery, ensuring the safety and integrity of mobile applications.
-
 ---
-
 ### 👯 Collaboration
 I’m looking to collaborate with both professionals and enthusiasts in these fields to push the boundaries of technology and research.
-
 ---
-
-### 🤔 Seeking Help With
-- Advanced quantum algorithms
-- DNA computing techniques
-- Android security best practices
-
----
-
 ### 💬 Ask Me About
 - Android app development
 - Quantum computing concepts
 - DNA computing applications
 - Cybersecurity strategies for mobile apps
-
 ---
-
 ### 📫 How to Reach Me
 <div>
   <a href="mailto:your-email@example.com">
