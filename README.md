@@ -1,31 +1,7 @@
 ### <span style="color:green;">Hi there, I'm cisborg 👋</span>
 
-#### 🔭 Current Work
-I'm currently working on:
-- **Android-app Development**: Building applications with a focus on user experience.
-- **Quantum Machine learning and AI**: Diving into the world of state-of-art quantum architecture development.
-- **Android Cybersecurity Projects**: Actively performing penetration tests with kali nethunter on android.
-
 ---
 
-#### 📫 How to Reach Me
-<div>
-  <a href="mailto:crisprboggs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-crisprboggs@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
-  </a>
-</div>
-
----
-
-#### 📊 My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=white)
-
-### Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cisborg&layout=compact&theme=white)
-
----
-
-#### 🛠️ Technologies & Tools
 <div>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Qiskit-4B1F7A?style=flat&logo=ibm&logoColor=white" alt="Qiskit" />
@@ -40,5 +16,25 @@ I'm currently working on:
 
 ---
 
+#### 🔭
+I'm currently working on:
+- **Android-app Development**: Building applications with a focus on user experience.
+- **Quantum Machine learning and AI**: Diving into the world of state-of-art quantum architecture development.
+- **Android Cybersecurity Projects**: Actively performing penetration tests with Kali Nethunter on Android.
+
 ---
 
+#### 📫 Reach Me
+<div>
+  <a href="mailto:crisprboggs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-crisprboggs@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
+  </a>
+</div>
+
+---
+
+#### 📊 My GitHub Stats
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=white" alt="My GitHub Stats" style="flex: 1; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cisborg&layout=compact&theme=white" alt="Most Used Languages" style="flex: 1; margin-left: 10px;" />
+</div>
