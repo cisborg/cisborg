@@ -7,15 +7,6 @@ I'm currently diving into:
 - **Android Development**: Building innovative apps with a focus on user experience.
 - **Android Cybersecurity**: Performing practical cybersecurity skills with kali linux in android machinery, ensuring the safety and integrity of mobile applications.
 ---
-### 👯 Collaboration
-I’m looking to collaborate with both professionals and enthusiasts in these fields to push the boundaries of technology and research.
----
-### 💬 Ask Me About
-- Android app development
-- Quantum computing concepts
-- DNA computing applications
-- Cybersecurity strategies for mobile apps
----
 ### 📫 How to Reach Me
 <div>
   <a href="mailto:your-email@example.com">
@@ -27,17 +18,9 @@ I’m looking to collaborate with both professionals and enthusiasts in these fi
 </div>
 
 ---
-
-### 😄 Pronouns
-He/Him
-
----
-
 ### ⚡ Fun Fact
 I'm optimistic that we will one day have an app that uses DNA sequences to solve complex problems—combining biology with technology!
-
 ---
-
 ### 📊 My Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
