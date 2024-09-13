@@ -1,10 +1,10 @@
-### <span style="color: green;">Hi there, I'm cisborg 👋</span>
+### <span style="color:green;">Hi there, I'm cisborg 👋</span>
 
 #### 🔭 Current Work
 I'm currently working on:
-- **Full-Stack Development**: Building applications with a focus on user experience.
-- **Learning React.js**: Diving into the world of modern web development.
-- **Open Source Contributions**: Actively contributing to various projects.
+- **Android-app Development**: Building applications with a focus on user experience.
+- **Quantum Machine learning and AI**: Diving into the world of state-of-art quantum architecture development.
+- **Android Cybersecurity Projects**: Actively performing penetration tests with kali nethunter on android.
 
 ---
 
