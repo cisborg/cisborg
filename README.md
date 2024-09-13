@@ -1,6 +1,6 @@
-# <span style="color: green;">Hi there, I'm cisborg 👋</span>
+### <span style="color: green;">Hi there, I'm cisborg 👋</span>
 
-## 🔭 Current Work
+#### 🔭 Current Work
 I'm currently working on:
 - **Full-Stack Development**: Building applications with a focus on user experience.
 - **Learning React.js**: Diving into the world of modern web development.
@@ -8,7 +8,7 @@ I'm currently working on:
 
 ---
 
-## 📫 How to Reach Me
+#### 📫 How to Reach Me
 <div>
   <a href="mailto:crisprboggs@gmail.com">
     <img src="https://img.shields.io/badge/Email-crisprboggs@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
@@ -17,7 +17,7 @@ I'm currently working on:
 
 ---
 
-## 📊 My GitHub Stats
+#### 📊 My GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ### Most Used Languages
@@ -25,7 +25,7 @@ I'm currently working on:
 
 ---
 
-## 🛠️ Technologies & Tools
+#### 🛠️ Technologies & Tools
 <div>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Qiskit-4B1F7A?style=flat&logo=ibm&logoColor=white" alt="Qiskit" />
@@ -39,11 +39,6 @@ I'm currently working on:
 </div>
 
 ---
-
-## 💬 Ask me about
-- quantum computing 
-- Open Source Projects
-- cybersecurity with android!
 
 ---
 
