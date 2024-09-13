@@ -1,15 +1,17 @@
-## Hi, I'm cisborg! 👋
+---
 
-### 🔭 Current Work
-I'm currently diving into:
-- **DNA Computing**: Exploring the intersection of molecular biology and computer science architectures.
-- **Quantum Computing**: Researching new algorithms and applications for solving superclassical problems, leveraging advancements in photonics and nanotechnology.
-- **Android Development**: Building innovative apps with a strong focus on user experience.
-- **Android Cybersecurity**: Practicing cybersecurity skills using Kali Linux on Android devices, ensuring the safety and integrity of mobile applications.
+# **Hi there, I'm [cisborg] 👋**
+
+## 🔭 **Current Work**
+I'm currently working on:
+- **DNA Computing**: Researching the intersection of molecular biology and advanced computing.
+- **Quantum Computing**: Exploring quantum algorithms, especially in the field of machine learning and cryptography.
+- **Android Development**: Creating mobile applications with a focus on user experience and security.
+- **Android Cybersecurity**: Using Kali Linux and other penetration testing tools to secure mobile applications.
 
 ---
 
-### 📫 How to Reach Me
+## 📫 **How to Reach Me**
 <div>
   <a href="mailto:crisprboggs@gmail.com">
     <img src="https://img.shields.io/badge/Email-crisprboggs@gmail.com-blue?style=flat&logo=gmail" alt="Email" />
@@ -21,12 +23,12 @@ I'm currently diving into:
 
 ---
 
-### 📊 My Stats
+## 📊 **My GitHub Stats**
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ **Technologies & Tools**
 <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
