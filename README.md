@@ -16,7 +16,7 @@
 
 ---
 
-#### 🔭 Current Work
+#### 🔭 Current Work 
 I'm currently working on:
 - **Android-app Development**: Building applications with a focus on user experience.
 - **Quantum Machine Learning and AI**: Diving into the world of state-of-the-art quantum architecture development.
@@ -34,7 +34,7 @@ I'm currently working on:
 ---
 
 #### 📊 My GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=white" alt="My GitHub Stats" style="flex: 1; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cisborg&layout=compact&theme=white" alt="Most Used Languages" style="flex: 1; margin-left: 10px;" />
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cisborg&show_icons=true&hide_title=true&count_private=true&theme=white" alt="My GitHub Stats" style="flex: 1; border: none; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cisborg&layout=compact&theme=white" alt="Most Used Languages" style="flex: 1; border: none;" />
 </div>
