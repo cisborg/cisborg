@@ -18,7 +18,7 @@
 
 #### 🔭 Current Work 
 I'm currently working on:
-- **Android-app firmware developmemnt**: Building firmware adndroid architecture, to implemennt latest photonic design architectures.
+- **Android-app firmware developmemnt**: Building android firmware architectural designs to bridge and culminate with  latest photonic design architectures.
 - **Quantum Machine Learning and AI**: Diving into the world of state-of-the-art quantum architecture development.
 - **Android Cybersecurity Projects**: Actively performing penetration tests with Kali Nethunter on Android.
 
